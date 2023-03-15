@@ -4,7 +4,9 @@
     padding-bottom: 1px;
     /* padding: 5px auto 12px auto; */
     /* padding: 1px; */
-    width:100%;
+/*     width:100%; */
+    max-width:100%;
+    height:auto;
     display: block;
     color: #f3f3f3;
     background-color: #3498db;
@@ -328,6 +330,8 @@ body {
     filter: progid: DXImageTransform.Microsoft.gradient(gradientType=1, startColorstr='#003073', endColorstr='#029797');
     background-image: url(//img.alicdn.com/tps/TB1d.u8MXXXXXXuXFXXXXXXXXXX-1900-790.jpg);
     background-size: 100%;
+    max-width:100%;
+    height:auto;
     background-image: -webkit-gradient(linear, 0 0, 100% 100%, color-stop(0, #003073), color-stop(100%, #029797));
     background-image: -webkit-linear-gradient(135deg, #003073, #029797);
     background-image: -moz-linear-gradient(45deg, #003073, #029797);
